@@ -10,7 +10,6 @@ from sklearn.pipeline import Pipeline
 
 from sklearn.linear_model import LinearRegression
 
-
 class Trainer():
 
     def load_data(self):
